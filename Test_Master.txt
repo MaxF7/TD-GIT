@@ -1,3 +1,7 @@
 "Hello World"
+<<<<<<< HEAD
 feature0
 feature1
+=======
+feature0
+>>>>>>> fb0f3296f84e0a94f18cfd173509ccc067067402
